@@ -1,0 +1,6 @@
+gluonts>=0.9.0
+holidays
+scipy
+tqdm
+matplotlib
+tensorboard
